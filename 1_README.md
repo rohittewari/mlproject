@@ -17,6 +17,8 @@
    - git branch -M main
    - git push -u origin main
    - git remote -v, git config --global user.email ( TO SET -> git config --global user.  email "rohit.tew@gmail.com")
+   - add '.gitignore' file in github ui of python type. (will have 'venv')
+   - do 'git pull' in the terminal
 
 
 
