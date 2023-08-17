@@ -1,3 +1,6 @@
+
+#https://www.youtube.com/watch?v=S_F_c9e2bz4&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG
+
 1. Create a git repo 'mlproject'
 2. Install Anaconda
 3. create a dir 'c:/1_ML_YOUTUBE-VS"
